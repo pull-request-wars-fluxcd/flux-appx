@@ -1413,7 +1413,7 @@ class Game {
 
     // crawl text with perspective transform
     const lines = [
-      'The CNCF Rebel Alliance faces its',
+      'The KubeCon Rebel Alliance faces its',
       'greatest challenge yet.',
       '',
       'Your mission: reach and defeat the',
