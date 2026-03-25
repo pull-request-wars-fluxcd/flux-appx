@@ -1,6 +1,5 @@
 FROM nginx:stable
 
-# Copy NGINX server configuration
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Copy all static game assets
